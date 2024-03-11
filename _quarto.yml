@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+build: quarto render
 website:
   title: "Rahul Gopeesingh"
   navbar:
